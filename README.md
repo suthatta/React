@@ -1,5 +1,5 @@
 > Please help us improve and share your feedback! If you find better tutorials
-> or links, please share them by [opening a pull request](https://github.com/HackYourFuture/React/pulls).
+> or links, please share them by [opening a pull request](https://github.com/FooCoding/React/pulls).
 
 # HackYourFuture - React.js
 
@@ -50,8 +50,9 @@ With that out of the way, let's get started with React!
 
 Take a look at [this video](https://www.youtube.com/watch?v=-o0yomUVVpU&index=2&list=PLVYDhqbgYpYUGxRdtQdYVE5Q8h3bt6SIA) made by Daan, he explains how your homework needs to be handed in.
 
-Also review the Git [workflow material](https://github.com/HackYourFuture/Git/blob/master/Lecture-3.md) from the JavaScript3 module, use this as a reference.
+Also review the Git [workflow material](https://github.com/FooCoding/Git/blob/master/Lecture-3.md) from the JavaScript3 module, use this as a reference.
 
 Please read [this doc](homework-submission/HOMEWORK.md) for information on how to where to put your homework for this particular module.
 
-_The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)_
+---
+Credit goes to [HackYourFuture](https://github.com/HackYourFuture) which this is based upon.
