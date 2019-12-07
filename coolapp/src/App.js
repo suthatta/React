@@ -1,9 +1,12 @@
 import React, { Component } from 'react';
 import './App.css';
-import Parent from './Components/Parent'
+//import Parent from './Components/Parent'
 import ToggleComponent from './Components/ToggleComponent/index'
-import Counter from './Components/Counter/Counter'
+//import Counter from './Components/Counter/Counter'
+import CounterCounters from './Components/CounterCounter/CounterCounters'
+
 class App extends Component {
+
   /*  propTypes = {
       initialCount: React.PropTypes.number
     }
@@ -14,8 +17,8 @@ class App extends Component {
       <div>
         <h1>Cool-App</h1>
         <ToggleComponent />
-
-        <Counter />
+        <h4>---------------</h4>
+        <CounterCounters />
       </div>
 
     );
